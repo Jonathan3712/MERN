@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img_cir{
+    width: 200px;
+    /* border-radius: 45%; */
+}
+
+.align1{
+    float: right;
+    padding-left: 50px;
+}
+td{
+    padding: 10px 20px;
+}
+.left1{
+    float: left;
+}
+.right1{
+    float: right;
+}
+.cent1{
+    margin-left: 10px;
+}
+.mar1{
+    margin-top: -10px;
+}
